@@ -33,7 +33,7 @@ public class Main {
                 new Point (3,4),
                 5
         );
-        System.out.println();
+        System.out.println(c1.getRadius());
         c1.setRadius(-21);
         System.out.println(c1.getRadius());
     }
